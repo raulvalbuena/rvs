@@ -4,3 +4,8 @@ Si
 No
 Ya veremos
 Listo
+
+Version 2.
+Fui al sitio central y cree varios cosas...
+El README y otro archivo que modifique 
+Estoy intentanto saber como sincronizo los dos sitios
